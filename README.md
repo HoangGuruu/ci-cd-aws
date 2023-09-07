@@ -1,4 +1,20 @@
+# Solution for Part A
+- I have link with all success stories case studies. You can see and choose one and do with it
+- Link : https://aws.amazon.com/solutions/case-studies/browse-customer-success-stories/
 
+- You can use Filter by to choose :
+`It's maybe choose`
+    + Location : 
+    + Industry : It's up to you
+    + ...
+    + Services Used : Maybe use AWS CodeBuild , CodeCommit, CodeDeploy, CodePipeline {Because it relate our project part B}. But it's up to you
+
+# Solution for Part B
+## 1. Question of fundamentals
+
+--------------------------------------------------------------
+## 2. Project Step by Step
+`In this project you can find any simple web to add for this solution. I added for you 2 web project`
 # Part 1
 ## 1. AWS Codecommit 
 - Create repository : demo-app 
