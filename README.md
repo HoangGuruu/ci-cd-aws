@@ -49,6 +49,19 @@ Answer: A Git branch is a pointer to a sequence of commits, representing an inde
 ### 8. How is a Git branch applied in real-life projects?
 Answer: In real-life projects, Git branches are used to manage different development tasks concurrently. For instance, developers often create separate branches for new features, bug fixes, or experiments. This ensures that the main codebase (often the "master" or "main" branch) remains stable. Once development on a branch is completed and tested, it is merged back into the main branch, making the changes available to everyone. Using branches helps teams maintain a clean and functional main codebase while allowing for parallel development efforts.
 
+### ---------- Maybe you need ---------------
+### 9. What is Ubuntu EC2?
+Answer: Ubuntu EC2 refers to an instance of the Ubuntu operating system running on Amazon's Elastic Compute Cloud (EC2). EC2 allows users to run virtual servers in the cloud, and Ubuntu is one of the many operating systems that users can choose to run on these virtual servers.
+
+### 10. What is AWS S3?
+Answer: AWS S3, or Amazon Simple Storage Service, is a scalable cloud storage service provided by Amazon Web Services (AWS). It allows users to store and retrieve any amount of data at any time, from anywhere on the web. S3 is often used for backup, archiving, content distribution, and much more.
+
+### 11. What is AWS Artifact?
+Answer: AWS Artifact is a portal that allows AWS customers to access on-demand, AWS compliance reports and select agreements (such as the AWS Business Associate Addendum). AWS Artifact provides reports that help to demonstrate the measures AWS takes to maintain security and compliance.
+
+### 12. What is AWS IAM?
+Answer: AWS IAM, or Amazon Web Services Identity and Access Management, is a service that helps an AWS account owner control who can access resources in their AWS account and what actions they can perform on those resources. It enables users to manage users, security credentials, and permissions to ensure only authorized entities can access specific AWS services and resources.
+
 ## Start ---->
 # Part 1
 ## 1. AWS Codecommit 
