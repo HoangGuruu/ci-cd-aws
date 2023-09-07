@@ -1,3 +1,5 @@
+![image](https://github.com/HoangGuruu/ci-cd-aws/assets/111829092/4743ce3a-20d6-422a-95f3-7a530ff2d02e)
+
 # Solution for Part A
 - I have link with all success stories case studies. You can see and choose one and do with it
 - Link : https://aws.amazon.com/solutions/case-studies/browse-customer-success-stories/
