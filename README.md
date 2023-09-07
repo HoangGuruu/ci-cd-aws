@@ -42,6 +42,14 @@ Answer: In a previous role, our team was managing a rapidly growing web applicat
 --------------------------------------------------------------
 ## 2. Project Step by Step
 `In this project you can find any simple web to add for this solution. I added for you 2 web project`
+### Note : I added feature about git branch for you . About git branch :
+7. What is a Git branch?
+Answer: A Git branch is a pointer to a sequence of commits, representing an independent line of development in a Git repository. It allows developers to diverge from the main line of development and work separately without affecting the main codebase. Once the feature or fix on the branch is complete, it can be merged back into the main branch or any other branch.
+
+8. How is a Git branch applied in real-life projects?
+Answer: In real-life projects, Git branches are used to manage different development tasks concurrently. For instance, developers often create separate branches for new features, bug fixes, or experiments. This ensures that the main codebase (often the "master" or "main" branch) remains stable. Once development on a branch is completed and tested, it is merged back into the main branch, making the changes available to everyone. Using branches helps teams maintain a clean and functional main codebase while allowing for parallel development efforts.
+
+## Start ---->
 # Part 1
 ## 1. AWS Codecommit 
 - Create repository : demo-app 
